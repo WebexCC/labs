@@ -1,0 +1,12 @@
+title: Webex Contact Center Lab Repository
+description: © 2023 Webex CC Lab repository, All right reserved.
+author:
+  name: Lab Support Email
+  email: 'wxcclabs@cisco.com'
+remote_theme: jekyll/minima
+
+minima:
+  skin: dark
+
+header_pages:
+Home.md
